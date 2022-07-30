@@ -15,7 +15,7 @@ module.exports = {
           unixTimeStamp: 1588636800,
           publishDate: "Tuesday, 05 May 2020",
           imageUrl:
-            "https://miro.medium.com/max/4000/1*b_al7C5p26tbZG4sy-CWqw.png",
+            "https://media-exp1.licdn.com/dms/image/C5612AQGfI67rBJSiAQ/article-cover_image-shrink_720_1280/0/1635773201847?e=1659571200&v=beta&t=ziNqb0yHT0dLgTMJvQD6GxUM-eBeumw_Vghmm_ZEkNg",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -29,7 +29,7 @@ module.exports = {
           unixTimeStamp: 1588723200,
           publishDate: "Wednesday, 06 May 2020",
           imageUrl:
-            "https://yootheme.com/site/images/blog/2010/warp_zoo_and_jquery.jpg",
+            "https://www.jotform.com/blog/wp-content/uploads/2008/04/photo-1516101922849-2bf0be616449.jpeg",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -43,7 +43,7 @@ module.exports = {
           unixTimeStamp: 1588896000,
           publishDate: "Friday, 08 May 2020",
           imageUrl:
-            "https://avatars3.githubusercontent.com/u/23617963?s=280&v=4",
+            "https://www.lambdatest.com/blog/wp-content/uploads/2020/06/Svelte-JS.png",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -57,7 +57,7 @@ module.exports = {
           unixTimeStamp: 1589068800,
           publishDate: "Sunday, 10 May 2020",
           imageUrl:
-            "https://blog.xebialabs.com/wp-content/uploads/2019/05/docker-e1558536954364.jpg",
+            "https://iamondemand.com/wp-content/uploads/2015/04/cool-docker-image.jpg",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
@@ -83,8 +83,7 @@ module.exports = {
           categoryId: 3,
           unixTimeStamp: 1588809600,
           publishDate: "Thursday, 07 May 2020",
-          imageUrl:
-            "https://cdn.journaldev.com/wp-content/uploads/2020/03/java-14-features.png",
+          imageUrl: "https://i.ytimg.com/vi/p7pr1-N3oug/mqdefault.jpg",
           createdAt: new Date(),
           updatedAt: new Date(),
         },
